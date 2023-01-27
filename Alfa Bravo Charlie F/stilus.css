@@ -1,0 +1,30 @@
+html{
+    background-color: #87CEFA;
+    color: #00008B;
+}
+a{
+    color: #B22222;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.ketpt{
+    border: 2pt solid black;
+}
+table{
+    border: 0;
+    width: 100%;
+}
+td{
+    align-items: right;
+}
+.tdk{
+    border: 2px solid black;
+}
+img{
+    width: 439px;
+    height: 300px;
+}
